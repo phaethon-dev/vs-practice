@@ -1,0 +1,5 @@
+# Build outputs: these are recreated by running mingw32-make
+*.o
+*.d
+*.a
+*.exe
